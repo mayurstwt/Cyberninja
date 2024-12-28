@@ -120,7 +120,7 @@ const LearnCyberSecurity: React.FC = () => {
             <AccordionItem value="item-18">
               <AccordionTrigger>What is the role of penetration testing in cyber security?</AccordionTrigger>
               <AccordionContent>
-                Penetration testing, often referred to as "pen testing," is a simulated cyber attack conducted by security professionals to identify vulnerabilities in an organization&apos;s systems, networks, and applications. The goal of penetration testing is to evaluate the security posture of the organization by attempting to exploit weaknesses before malicious actors can. This proactive approach helps organizations understand their vulnerabilities, prioritize remediation efforts, and improve their overall security measures. Penetration tests should be conducted regularly and after significant changes to the IT environment.
+                Penetration testing, often referred to as &ldquo;pen testing,&ldquo; is a simulated cyber attack conducted by security professionals to identify vulnerabilities in an organization&apos;s systems, networks, and applications. The goal of penetration testing is to evaluate the security posture of the organization by attempting to exploit weaknesses before malicious actors can. This proactive approach helps organizations understand their vulnerabilities, prioritize remediation efforts, and improve their overall security measures. Penetration tests should be conducted regularly and after significant changes to the IT environment.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-19">
@@ -132,13 +132,13 @@ const LearnCyberSecurity: React.FC = () => {
             <AccordionItem value="item-20">
               <AccordionTrigger>What is GDPR and how does it impact data protection?</AccordionTrigger>
               <AccordionContent>
-                The General Data Protection Regulation (GDPR) is a comprehensive data protection law enacted by the European Union (EU) in May 2018. It aims to enhance individuals' control over their personal data and establish a unified framework for data protection across the EU. GDPR imposes strict requirements on organizations that collect, process, or store personal data, including obtaining explicit consent, ensuring data security, and providing individuals with the right to access, rectify, and erase their data. Non-compliance with GDPR can result in significant fines and legal consequences, making it crucial for organizations to implement robust data protection measures.
+                The General Data Protection Regulation (GDPR) is a comprehensive data protection law enacted by the European Union (EU) in May 2018. It aims to enhance individuals control over their personal data and establish a unified framework for data protection across the EU. GDPR imposes strict requirements on organizations that collect, process, or store personal data, including obtaining explicit consent, ensuring data security, and providing individuals with the right to access, rectify, and erase their data. Non-compliance with GDPR can result in significant fines and legal consequences, making it crucial for organizations to implement robust data protection measures.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-21">
               <AccordionTrigger>What is a zero-day vulnerability?</AccordionTrigger>
               <AccordionContent>
-                A zero-day vulnerability is a security flaw in software or hardware that is unknown to the vendor and has not yet been patched. The term "zero-day" refers to the fact that the vulnerability is exploited by attackers before the vendor has had a chance to address it, leaving users exposed to potential attacks. Zero-day vulnerabilities can be particularly dangerous because they can be exploited without any prior warning, making it essential for organizations to implement robust security measures, such as intrusion detection systems and regular software updates, to mitigate the risks associated with these vulnerabilities.
+                A zero-day vulnerability is a security flaw in software or hardware that is unknown to the vendor and has not yet been patched. The term &ldquo;zero-day&ldquo; refers to the fact that the vulnerability is exploited by attackers before the vendor has had a chance to address it, leaving users exposed to potential attacks. Zero-day vulnerabilities can be particularly dangerous because they can be exploited without any prior warning, making it essential for organizations to implement robust security measures, such as intrusion detection systems and regular software updates, to mitigate the risks associated with these vulnerabilities.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-22">
