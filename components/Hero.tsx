@@ -12,7 +12,7 @@ const Hero = () => {
                 </h1>
                 <p className='text-muted pt-6'>Explore the world of cybersecurity, coding, and ethical hacking. <br /> Join us to learn, share, and innovate in tech!</p>
             </div>
-            <HeroVideoDialog className="container mx-auto" videoSrc={"https://res.cloudinary.com/damr9jzpb/video/upload/v1735386660/852292-hd_1152_720_25fps_swt8or.mp4"} thumbnailSrc={"https://res.cloudinary.com/damr9jzpb/image/upload/v1735386810/Screenshot_from_2024-12-28_17-22-30_vzlflc.png"} />
+            <HeroVideoDialog className="container mx-auto px-2 md:px-0" videoSrc={"https://res.cloudinary.com/damr9jzpb/video/upload/v1735386660/852292-hd_1152_720_25fps_swt8or.mp4"} thumbnailSrc={"https://res.cloudinary.com/damr9jzpb/image/upload/v1735386810/Screenshot_from_2024-12-28_17-22-30_vzlflc.png"} />
         </div>
     )
 }
