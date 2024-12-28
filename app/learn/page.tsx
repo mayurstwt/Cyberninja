@@ -17,7 +17,7 @@ const LearnCyberSecurity: React.FC = () => {
             <AccordionItem value="item-1">
               <AccordionTrigger>What is Cyber Security?</AccordionTrigger>
               <AccordionContent>
-                Cyber security is the practice of protecting systems, networks, and programs from digital attacks. It encompasses a wide range of technologies, processes, and practices designed to safeguard devices, networks, and data from unauthorized access, damage, or theft. Cyber security is essential in today's digital world, where cyber threats are increasingly sophisticated and prevalent.
+                Cyber security is the practice of protecting systems, networks, and programs from digital attacks. It encompasses a wide range of technologies, processes, and practices designed to safeguard devices, networks, and data from unauthorized access, damage, or theft. Cyber security is essential in today&apos;s digital world, where cyber threats are increasingly sophisticated and prevalent.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-2">
@@ -35,7 +35,7 @@ const LearnCyberSecurity: React.FC = () => {
             <AccordionItem value="item-4">
               <AccordionTrigger>How can I protect myself online?</AccordionTrigger>
               <AccordionContent>
-                You can protect yourself by using strong passwords, enabling two-factor authentication, and being cautious of suspicious emails and links. Additionally, regularly updating software and applications, using a reputable antivirus program, and being aware of privacy settings on social media can significantly enhance your online security. It's also important to educate yourself about the latest cyber threats and best practices for safe browsing.
+                You can protect yourself by using strong passwords, enabling two-factor authentication, and being cautious of suspicious emails and links. Additionally, regularly updating software and applications, using a reputable antivirus program, and being aware of privacy settings on social media can significantly enhance your online security. It&apos;s also important to educate yourself about the latest cyber threats and best practices for safe browsing.
               </AccordionContent>
             </AccordionItem>
             {/* Additional Questions and Answers */}
@@ -72,13 +72,13 @@ const LearnCyberSecurity: React.FC = () => {
             <AccordionItem value="item-10">
               <AccordionTrigger>What is phishing and how can I recognize it?</AccordionTrigger>
               <AccordionContent>
-                Phishing is a cyber attack that attempts to trick individuals into providing sensitive information, such as usernames, passwords, or credit card details, by masquerading as a trustworthy entity in electronic communications. Phishing attacks often come in the form of emails, messages, or websites that appear legitimate. To recognize phishing attempts, look for signs such as poor grammar, generic greetings, suspicious links, and requests for sensitive information. Always verify the sender's email address and avoid clicking on links or downloading attachments from unknown sources.
+                Phishing is a cyber attack that attempts to trick individuals into providing sensitive information, such as usernames, passwords, or credit card details, by masquerading as a trustworthy entity in electronic communications. Phishing attacks often come in the form of emails, messages, or websites that appear legitimate. To recognize phishing attempts, look for signs such as poor grammar, generic greetings, suspicious links, and requests for sensitive information. Always verify the sender&apos;s email address and avoid clicking on links or downloading attachments from unknown sources.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-11">
               <AccordionTrigger>What is ransomware and how does it work?</AccordionTrigger>
               <AccordionContent>
-                Ransomware is a type of malicious software that encrypts a victim's files or locks them out of their system, demanding a ransom payment to restore access. Once the ransomware infects a device, it typically displays a message informing the victim of the attack and providing instructions on how to pay the ransom, often in cryptocurrency. Ransomware can spread through phishing emails, malicious downloads, or vulnerabilities in software. Prevention measures include regular data backups, keeping software updated, and using robust security solutions.
+                Ransomware is a type of malicious software that encrypts a victim&apos;s files or locks them out of their system, demanding a ransom payment to restore access. Once the ransomware infects a device, it typically displays a message informing the victim of the attack and providing instructions on how to pay the ransom, often in cryptocurrency. Ransomware can spread through phishing emails, malicious downloads, or vulnerabilities in software. Prevention measures include regular data backups, keeping software updated, and using robust security solutions.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-12">
@@ -96,7 +96,7 @@ const LearnCyberSecurity: React.FC = () => {
             <AccordionItem value="item-14">
               <AccordionTrigger>What are the best practices for creating strong passwords?</AccordionTrigger>
               <AccordionContent>
-                Creating strong passwords is essential for protecting your online accounts. Best practices include using a combination of upper and lower case letters, numbers, and special characters. Passwords should be at least 12-16 characters long and avoid using easily guessable information, such as birthdays or common words. It's also advisable to use unique passwords for different accounts and to change them regularly. Consider using a password manager to securely store and generate complex passwords, making it easier to maintain strong security across all your accounts.
+                Creating strong passwords is essential for protecting your online accounts. Best practices include using a combination of upper and lower case letters, numbers, and special characters. Passwords should be at least 12-16 characters long and avoid using easily guessable information, such as birthdays or common words. It&apos;s also advisable to use unique passwords for different accounts and to change them regularly. Consider using a password manager to securely store and generate complex passwords, making it easier to maintain strong security across all your accounts.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-15">
@@ -120,7 +120,7 @@ const LearnCyberSecurity: React.FC = () => {
             <AccordionItem value="item-18">
               <AccordionTrigger>What is the role of penetration testing in cyber security?</AccordionTrigger>
               <AccordionContent>
-                Penetration testing, often referred to as "pen testing," is a simulated cyber attack conducted by security professionals to identify vulnerabilities in an organization's systems, networks, and applications. The goal of penetration testing is to evaluate the security posture of the organization by attempting to exploit weaknesses before malicious actors can. This proactive approach helps organizations understand their vulnerabilities, prioritize remediation efforts, and improve their overall security measures. Penetration tests should be conducted regularly and after significant changes to the IT environment.
+                Penetration testing, often referred to as "pen testing," is a simulated cyber attack conducted by security professionals to identify vulnerabilities in an organization&apos;s systems, networks, and applications. The goal of penetration testing is to evaluate the security posture of the organization by attempting to exploit weaknesses before malicious actors can. This proactive approach helps organizations understand their vulnerabilities, prioritize remediation efforts, and improve their overall security measures. Penetration tests should be conducted regularly and after significant changes to the IT environment.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-19">
@@ -150,19 +150,19 @@ const LearnCyberSecurity: React.FC = () => {
             <AccordionItem value="item-23">
               <AccordionTrigger>What is a security audit?</AccordionTrigger>
               <AccordionContent>
-                A security audit is a systematic evaluation of an organization's information system, policies, and procedures to assess its security posture. The audit process involves reviewing security controls, identifying vulnerabilities, and ensuring compliance with relevant regulations and standards. Security audits can be conducted internally by the organization's own staff or externally by third-party security experts. The findings from a security audit help organizations understand their security strengths and weaknesses, enabling them to implement necessary improvements and enhance their overall security framework.
+                A security audit is a systematic evaluation of an organization&apos;s information system, policies, and procedures to assess its security posture. The audit process involves reviewing security controls, identifying vulnerabilities, and ensuring compliance with relevant regulations and standards. Security audits can be conducted internally by the organization&apos;s own staff or externally by third-party security experts. The findings from a security audit help organizations understand their security strengths and weaknesses, enabling them to implement necessary improvements and enhance their overall security framework.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-24">
               <AccordionTrigger>What is the role of threat intelligence in cyber security?</AccordionTrigger>
               <AccordionContent>
-                Threat intelligence refers to the collection, analysis, and dissemination of information about potential or current threats to an organization's security. It involves gathering data from various sources, including open-source intelligence, dark web monitoring, and threat feeds, to identify emerging threats and vulnerabilities. By leveraging threat intelligence, organizations can proactively defend against cyber attacks, improve incident response capabilities, and make informed decisions about security investments. Effective threat intelligence helps organizations stay ahead of cyber adversaries and enhances their overall security posture.
+                Threat intelligence refers to the collection, analysis, and dissemination of information about potential or current threats to an organization&apos;s security. It involves gathering data from various sources, including open-source intelligence, dark web monitoring, and threat feeds, to identify emerging threats and vulnerabilities. By leveraging threat intelligence, organizations can proactively defend against cyber attacks, improve incident response capabilities, and make informed decisions about security investments. Effective threat intelligence helps organizations stay ahead of cyber adversaries and enhances their overall security posture.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-25">
               <AccordionTrigger>What is the importance of patch management?</AccordionTrigger>
               <AccordionContent>
-                Patch management is the process of identifying, acquiring, installing, and verifying patches for software and systems to address vulnerabilities and improve functionality. Regular patching is crucial for maintaining the security of an organization's IT environment, as unpatched software can be exploited by attackers to gain unauthorized access or launch attacks. A robust patch management strategy involves keeping track of software updates, prioritizing critical patches, and testing patches before deployment to minimize disruptions. By effectively managing patches, organizations can reduce their risk of cyber incidents and enhance their overall security posture.
+                Patch management is the process of identifying, acquiring, installing, and verifying patches for software and systems to address vulnerabilities and improve functionality. Regular patching is crucial for maintaining the security of an organization&apos;s IT environment, as unpatched software can be exploited by attackers to gain unauthorized access or launch attacks. A robust patch management strategy involves keeping track of software updates, prioritizing critical patches, and testing patches before deployment to minimize disruptions. By effectively managing patches, organizations can reduce their risk of cyber incidents and enhance their overall security posture.
               </AccordionContent>
             </AccordionItem>
           </Accordion>
