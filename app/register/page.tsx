@@ -13,8 +13,8 @@ const RegisterPage: React.FC = () => {
 
     return (
         <div className="flex items-center justify-center px-2 md:px-0 py-32 bg-black">
-            <div className="border flex flex-col justify-center rounded-xl p-8 shadow-lg w-[30rem] h-[35rem]">
-            <h1 className='text-3xl font-bold md:text-4xl mb-10 leading-normal bg-gradient-to-b from-gray-500 to-white bg-clip-text text-transparent'>
+            <div className="border flex flex-col justify-center rounded-xl p-8 shadow-lg w-[30rem] h-[38rem]">
+            <h1 className='text-[2.3rem] mb-10 leading-[3rem] tracking-wider md:tracking-normal letter-sa font-bold md:text-6xl bg-gradient-to-b from-gray-500 to-white bg-clip-text text-transparent'>
             Join us @CyberNinja</h1>
 
                 <div className="mb-4">

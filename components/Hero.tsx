@@ -7,7 +7,7 @@ const Hero = () => {
         <div className='flex items-center flex-col text-white pb-48 gap-16'>
             <div className='text-center pt-24'>
                 <AnimatedShinyTextDemo />
-                <h1 className='text-4xl font-bold md:text-6xl leading-normal bg-gradient-to-b from-gray-500 to-white bg-clip-text text-transparent'>
+                <h1 className='text-[2.3rem] leading-[3rem] tracking-wider md:tracking-normal letter-sa font-bold md:text-6xl bg-gradient-to-b from-gray-500 to-white bg-clip-text text-transparent'>
                     Unlock the Secrets of Cybersecurity <br /> and Ethical Hacking Today
                 </h1>
                 <p className='text-muted pt-6'>Explore the world of cybersecurity, coding, and ethical hacking. <br /> Join us to learn, share, and innovate in tech!</p>

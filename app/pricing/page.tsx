@@ -45,7 +45,7 @@ const Pricing: React.FC = () => {
   return (
     <section className="bg-black text-white flex flex-col items-center justify-center min-h-[90vh] py-10 px-5">
       <div className="container mx-auto text-center">
-      <h2 className='text-4xl font-bold mb-14 md:text-6xl leading-normal bg-gradient-to-b from-gray-500 to-white bg-clip-text text-transparent'>
+      <h2 className='text-[2.3rem] mb-10 leading-[3rem] tracking-wider md:tracking-normal letter-sa font-bold md:text-6xl bg-gradient-to-b from-gray-500 to-white bg-clip-text text-transparent'>
       CyberNinja Pricing Plans</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {pricingPlans.map((plan, index) => (

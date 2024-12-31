@@ -59,7 +59,8 @@ export function BentoDemo() {
     <div className="py-44 px-2 md:px-0">
         <div className="text-center">
         <p className='text-gray-400 mb-5'>Benefits</p>
-        <h2 className='text-4xl mb-10 font-bold md:text-6xl leading-normal bg-gradient-to-b from-gray-500 to-white bg-clip-text text-transparent'>Be Prepared for Every Interaction</h2>
+        <h2 className='text-[2.3rem] mb-10 leading-[3rem] tracking-wider md:tracking-normal letter-sa font-bold md:text-6xl bg-gradient-to-b from-gray-500 to-white bg-clip-text text-transparent'>
+        Be Prepared for Every Interaction</h2>
         </div>
         <BentoGrid className="lg:grid-rows-3 min-h-[50rem] ">
             {features.map((feature) => (
